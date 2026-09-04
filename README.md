@@ -1,5 +1,7 @@
 # RecoverAI — AI-Powered Revenue Recovery Intelligence Platform
 
+DEMO LINK: https://recover-ai-teal.vercel.app/
+
 > **Don't blindly retry. Recover intelligently.**
 
 RecoverAI is an AI-powered revenue recovery intelligence platform designed to help payment and revenue operations teams recover lost revenue through **intelligent, explainable, policy-controlled decisions** rather than blindly retrying failed payments.
